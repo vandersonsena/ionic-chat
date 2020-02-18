@@ -25695,3 +25695,7 @@ ion-navbar.toolbar {
   padding-bottom: 4px;
   min-height: 46px;
 }
+
+.auth-icon {
+  font-size: 7.0em;
+}
