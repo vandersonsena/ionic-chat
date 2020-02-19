@@ -15,7 +15,7 @@ const firebaseAppConfig: FirebaseAppConfig = {
   apiKey: "AIzaSyB_m9BoC9eUS565Lc9nBLmU70h3LDEKcqY",
   authDomain: "orel-e7509.firebaseapp.com",
   databaseURL: "https://orel-e7509.firebaseio.com",
-  projectId: "orel-e7509",
+  //projectId: "orel-e7509",
   storageBucket: "orel-e7509.appspot.com",
   messagingSenderId: "459377143124",
 }
